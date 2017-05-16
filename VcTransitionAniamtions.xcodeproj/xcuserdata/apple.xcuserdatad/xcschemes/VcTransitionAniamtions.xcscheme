@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "182C79911EC9466D00A7887F"
+               BuildableName = "VcTransitionAniamtions.app"
+               BlueprintName = "VcTransitionAniamtions"
+               ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "182C79A51EC9466D00A7887F"
+               BuildableName = "VcTransitionAniamtionsTests.xctest"
+               BlueprintName = "VcTransitionAniamtionsTests"
+               ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "182C79B01EC9466E00A7887F"
+               BuildableName = "VcTransitionAniamtionsUITests.xctest"
+               BlueprintName = "VcTransitionAniamtionsUITests"
+               ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "182C79911EC9466D00A7887F"
+            BuildableName = "VcTransitionAniamtions.app"
+            BlueprintName = "VcTransitionAniamtions"
+            ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "182C79911EC9466D00A7887F"
+            BuildableName = "VcTransitionAniamtions.app"
+            BlueprintName = "VcTransitionAniamtions"
+            ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "182C79911EC9466D00A7887F"
+            BuildableName = "VcTransitionAniamtions.app"
+            BlueprintName = "VcTransitionAniamtions"
+            ReferencedContainer = "container:VcTransitionAniamtions.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
