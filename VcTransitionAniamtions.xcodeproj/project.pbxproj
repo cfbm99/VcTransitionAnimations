@@ -17,7 +17,6 @@
 		182C79B61EC9466E00A7887F /* VcTransitionAniamtionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79B51EC9466E00A7887F /* VcTransitionAniamtionsUITests.swift */; };
 		182C79C41EC9478800A7887F /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79C31EC9478800A7887F /* BViewController.swift */; };
 		182C79C61EC949CC00A7887F /* TransitionAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79C51EC949CC00A7887F /* TransitionAnimations.swift */; };
-		182C79C81EC970EF00A7887F /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79C71EC970EF00A7887F /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		182C79B71EC9466E00A7887F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		182C79C31EC9478800A7887F /* BViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
 		182C79C51EC949CC00A7887F /* TransitionAnimations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionAnimations.swift; sourceTree = "<group>"; };
-		182C79C71EC970EF00A7887F /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +108,6 @@
 				182C79C31EC9478800A7887F /* BViewController.swift */,
 				182C79C51EC949CC00A7887F /* TransitionAnimations.swift */,
 				182164DB1ECABB1600866269 /* MacroDefine.swift */,
-				182C79C71EC970EF00A7887F /* File.swift */,
 				182C79991EC9466D00A7887F /* Main.storyboard */,
 				182C799C1EC9466D00A7887F /* Assets.xcassets */,
 				182C799E1EC9466D00A7887F /* LaunchScreen.storyboard */,
@@ -271,7 +268,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				182C79C81EC970EF00A7887F /* File.swift in Sources */,
 				182C79981EC9466D00A7887F /* ViewController.swift in Sources */,
 				182C79C41EC9478800A7887F /* BViewController.swift in Sources */,
 				182C79961EC9466D00A7887F /* AppDelegate.swift in Sources */,
