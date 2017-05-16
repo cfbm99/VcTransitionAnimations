@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		182164DC1ECABB1600866269 /* MacroDefine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182164DB1ECABB1600866269 /* MacroDefine.swift */; };
 		182C79961EC9466D00A7887F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79951EC9466D00A7887F /* AppDelegate.swift */; };
 		182C79981EC9466D00A7887F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C79971EC9466D00A7887F /* ViewController.swift */; };
 		182C799B1EC9466D00A7887F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182C79991EC9466D00A7887F /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		182164DB1ECABB1600866269 /* MacroDefine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MacroDefine.swift; sourceTree = "<group>"; };
 		182C79921EC9466D00A7887F /* VcTransitionAniamtions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VcTransitionAniamtions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		182C79951EC9466D00A7887F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		182C79971EC9466D00A7887F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				182C79971EC9466D00A7887F /* ViewController.swift */,
 				182C79C31EC9478800A7887F /* BViewController.swift */,
 				182C79C51EC949CC00A7887F /* TransitionAnimations.swift */,
+				182164DB1ECABB1600866269 /* MacroDefine.swift */,
 				182C79C71EC970EF00A7887F /* File.swift */,
 				182C79991EC9466D00A7887F /* Main.storyboard */,
 				182C799C1EC9466D00A7887F /* Assets.xcassets */,
@@ -273,6 +276,7 @@
 				182C79C41EC9478800A7887F /* BViewController.swift in Sources */,
 				182C79961EC9466D00A7887F /* AppDelegate.swift in Sources */,
 				182C79C61EC949CC00A7887F /* TransitionAnimations.swift in Sources */,
+				182164DC1ECABB1600866269 /* MacroDefine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -519,6 +523,7 @@
 				182C79BC1EC9466E00A7887F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		182C79BD1EC9466E00A7887F /* Build configuration list for PBXNativeTarget "VcTransitionAniamtionsTests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +532,7 @@
 				182C79BF1EC9466E00A7887F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		182C79C01EC9466E00A7887F /* Build configuration list for PBXNativeTarget "VcTransitionAniamtionsUITests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +541,7 @@
 				182C79C21EC9466E00A7887F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
